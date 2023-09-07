@@ -13,8 +13,8 @@ To facilitate testing and demonstration, I have included an example data entry f
 *3. PL/SQL-Based Functions*
 These functions are designed to perform various tasks related to inventory management, including:
 
--Updating item details.
--Calculating available stock.
--Generating reports on inventory status.
+-Updating item details.    
+-Calculating available stock.    
+-Generating reports on inventory status.   
 
 These functions are executed using SQL queries, providing a comprehensive set of tools to manage inventory efficiently.
