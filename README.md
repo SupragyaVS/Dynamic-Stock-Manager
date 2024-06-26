@@ -1,4 +1,4 @@
-# Inventory-Management-System
+# Dynamic Stock Manager
 Database Management System Project on the Inventory Management System using SQL
 
 This repository contains a Database Management System (DBMS) project focused on Inventory Management. The project is implemented using Structured Query Language (SQL). It includes a comprehensive report file and a relational diagram for a better understanding of the project's structure and functionality.
